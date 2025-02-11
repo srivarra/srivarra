@@ -8,4 +8,4 @@ I'm a Research Software Engineer and Data Analyst at Stanford's School of Medici
 
 [website][srivarra-dev].
 
-[srivarra-dev]: srivarra.dev
+[srivarra-dev]: https://www.srivarra.dev/
